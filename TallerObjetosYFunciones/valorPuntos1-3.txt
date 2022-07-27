@@ -1,0 +1,2 @@
+1) 30 30 60 4 4 4 2 2 
+3) nombre: Marcos, cedula: 124532, edad: 32, salario: 900.999
